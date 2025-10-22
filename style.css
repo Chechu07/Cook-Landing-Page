@@ -2,6 +2,10 @@
     --background-color: #2a5846;
     --color-letter: #ECEEEE;
     --color-buttons: #0b9b62;
+    --color-review: #FFFFFF;
+    --color-stars:#F9AB43;
+    --color-letter-secondary:#1B1B1B;
+    --color-letter-text:#282828;
 }
 *{
     margin: 0;
