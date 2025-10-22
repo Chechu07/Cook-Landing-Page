@@ -1,0 +1,10 @@
+:root{
+    --background-color: #2a5846;
+    --color-letter: #ECEEEE;
+    --color-buttons: #0b9b62;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
